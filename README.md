@@ -2,7 +2,7 @@
 
 * Студент: [Александр Першин](https://htmlacademy.ru/profile/id1).
 * Наставник: `Кексик`.
-
+* Наставник: "Наставник"
 --
 
 Не удаляйте и не обращайте внимание на файлы: `.editorconfig`, `.gitignore`, `.travis.yml`, `Gruntfile.js`, `package.json`.
